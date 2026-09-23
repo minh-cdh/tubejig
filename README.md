@@ -4,6 +4,10 @@ Công cụ web mô phỏng 3D các mối ghép sắt ống tròn và sắt hộp
 
 **Dùng thử:** https://minh-cdh.github.io/tubejig/
 
+![Giao diện TubeJig: mô phỏng 3D góc vát 90° ống Ø42 và cữ in tương ứng](docs/screenshot.png)
+
+Mình làm DIY, không phải thợ hàn chuyên nghiệp. Cắt ghép sắt ống, nhất là ống tròn, ở góc 45° hay chữ T thì đo vạch bằng tay rất dễ lệch, ghép vào hở một bên là coi như bỏ đoạn ống. Vì vậy mình làm công cụ này: chọn kiểu ghép, nhập kích thước, xem mô phỏng 3D cho chắc, rồi in cữ ra giấy quấn lên ống là vạch cắt được.
+
 ## Tính năng
 
 ### Kiểu mối ghép
